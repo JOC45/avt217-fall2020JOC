@@ -13,3 +13,10 @@ p {
   font-size: 16px;
   font-family: serif;
 }
+a{
+  background-color: blue;
+  transition: background-color .5s;
+}
+a:hover{
+  background-color: gold;
+}
