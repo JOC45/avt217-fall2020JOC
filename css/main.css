@@ -1,0 +1,15 @@
+html{
+  font-size: 16px
+}
+body {
+  background-color: violet;
+}
+h1{
+  font-size: 4rem;
+}
+a:link, a:visited {
+  color: black;
+}
+li{
+  font-size: 2rem;
+}
