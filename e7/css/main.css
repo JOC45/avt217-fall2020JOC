@@ -1,0 +1,22 @@
+html{
+  font-size: 16px;
+}
+h1 {
+  font-size: 4rem;
+  font-weight: 200;
+  font-family: Trebuchet sans-serif;
+}
+h2 {
+  font-size: 3rem;
+  font-weight: 100;
+  font-family: Trebuchet sans-serif;
+}
+h3 {
+  font-size: 2rem;
+  font-family: Trebuchet sans-serif;
+}
+body {
+  font-family: Lucida serif;
+  color: powderblue;
+  font-size: 1rem;
+}
