@@ -5,4 +5,10 @@
   p {
     color: white;
   }
+  li {
+    color: white;
+  }
+  img {
+    align-content: center;
+  }
 }
