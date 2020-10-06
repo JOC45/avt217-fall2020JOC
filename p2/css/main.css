@@ -16,4 +16,8 @@
     width: 20%;
     height: 20%;
   }
+  h1{
+    color: white;
+    text-align: center;
+  }
 }
