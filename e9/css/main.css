@@ -40,3 +40,17 @@ main {
   float: left;
   border: 10px solid white;
 }
+.shape5 {
+  width: 300px;
+  height: 200px;
+  background-color: navy;
+  margin: -20px -10px;
+  float: left;
+}
+.shape6 {
+  width: 400px;
+  height: 150px;
+  background-color: violet;
+  margin: 40px;
+  float: left;
+}
