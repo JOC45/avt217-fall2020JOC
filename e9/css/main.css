@@ -24,3 +24,19 @@ main {
   float: left;
   border: 10px  solid black;
 }
+.shape3 {
+  width: 150px;
+  height: 100px;
+  background-color: magenta;
+  margin: 80px;
+  float: left;
+  border: 5px solid black;
+}
+.shape4 {
+  width: 100px;
+  height: 100px;
+  background-color: gold;
+  margin: -10px -20px;
+  float: left;
+  border: 10px solid white;
+}
