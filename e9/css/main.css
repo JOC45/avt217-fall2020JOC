@@ -3,13 +3,24 @@
 }
 body {
   margin: 0;
+  overflow-x: hidden;
 }
 main {
-
+  width: 125vw;
+  margin: -100px 12.5vw;
 }
-div {
-  width: 300px;
-  height: 300px;
+.shape1 {
+  width: 100px;
+  height: 100px;
   background-color: gray;
   margin: 50px;
+  float: left;
+}
+.shape2 {
+  width: 50px;
+  height: 100px;
+  background-color: powderblue;
+  margin: -50px -150px;
+  float: left;
+  border: 10px  solid black;
 }
