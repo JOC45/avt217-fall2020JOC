@@ -3,9 +3,34 @@ html{
 }
 body {
   background-color: violet;
+  text-align: center;
+  font-family: sans-serif;
 }
-h1{
+header {
+  width: 75vw;
+  margin: 25px auto;
+}
+main {
+  width: 75vw;
+  margin: 25px auto;
+  display: flow-root;
+}
+.col {
+  width: 50%;
+  float: left;
+}
+h1 {
   font-size: 4rem;
+  text-align: left;
+  text-transform: uppercase;
+  font-family: monospace;
+  font-weight: 700;
+}
+h2 {
+  font-size: 2rem;
+  text-align: left;
+  font-family: monospace;
+  font-weight: 700;
 }
 a:link, a:visited {
   color: black;
