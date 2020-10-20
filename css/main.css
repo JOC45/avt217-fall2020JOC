@@ -17,6 +17,7 @@ main {
 .col {
   width: 50%;
   float: left;
+  padding: 0 25px;
 }
 h1 {
   font-size: 4rem;
@@ -37,7 +38,7 @@ a:link, a:visited {
 li{
   font-size: 2rem;
 }
-@media screen and (max-width: 1680px) {
+@media screen and (max-width: 900px) {
   .col {
     width: 100%;
     margin-bottom: 50px;
