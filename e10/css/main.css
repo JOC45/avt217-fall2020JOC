@@ -4,7 +4,7 @@
 body {
   margin: 0;
 }
-.board {
+.board1 {
   width: 800px;
   background-color: whitesmoke;
   padding: 50px;
@@ -24,4 +24,59 @@ body {
 }
 .gray {
   background-color: light gray;
+}
+.board2 {
+  width: 1200px;
+  height: 220px;
+  background-color: whitesmoke;
+  margin-top: 20px;
+  margin-right: auto;
+  margin-left: auto;
+  display: flow-root;
+}
+.header1 {
+  width: 1000px;
+  height: 200px;
+  padding: 5px;
+  background-color: powderblue;
+  float: left;
+}
+.subhead {
+  width: 1000px;
+  height: 10px;
+  padding: 5px;
+  background-color: powderblue;
+  float: left;
+}
+.board3 {
+  width: 1200px;
+  height: 710px;
+  background-color: whitesmoke;
+  margin-top: 225px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flow-root;
+}
+.bodycol {
+  width: 390px;
+  height: 700px;
+  background-color: powderblue;
+  padding: 5px;
+  float: left;
+}
+.board4 {
+  width: 1200px;
+  height: 210px;
+  background-color: whitesmoke;
+  margin-top: 930px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flow-root;
+}
+.footer {
+  width: 1000px;
+  height: 200px;
+  padding: 5px;
+  background-color: powderblue;
+  float: left;
 }
