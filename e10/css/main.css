@@ -26,8 +26,8 @@ body {
   background-color: light gray;
 }
 .board2 {
-  width: 1200px;
-  height: 220px;
+  width: 1000px;
+  height: 280px;
   background-color: whitesmoke;
   margin-top: 20px;
   margin-right: auto;
@@ -43,7 +43,7 @@ body {
 }
 .subhead {
   width: 1000px;
-  height: 10px;
+  height: 40px;
   padding: 5px;
   background-color: powderblue;
   float: left;
