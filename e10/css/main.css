@@ -81,8 +81,8 @@ body {
   float: left;
 }
 .board5 {
-  width: 800px;
-  height: 300px;
+  width: 1000px;
+  height: 400px;
   background-color: whitesmoke;
   margin-top: 20px;
   margin-left: auto;
@@ -115,6 +115,7 @@ body {
   height: 350px;
   background-color: blue;
   padding: 20px;
+  margin-left: 10px;
   float: left;
 }
 .subbig {
@@ -122,5 +123,6 @@ body {
   height: 50px;
   background-color: orange;
   padding: 20px;
+  margin-top: 10px;
   float: left;
 }
