@@ -9,8 +9,9 @@
     margin-right: 60px;
     margin-left: 60px;
   }
-  li {
+  ol {
     color: white;
+    font-size: 19px;
   }
   img {
     align-content: center;
