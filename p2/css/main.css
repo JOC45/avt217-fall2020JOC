@@ -38,21 +38,21 @@
     width: 500px;
     height: auto;
     float: left;
-    margin: 30px 30px 30px 30px;
+    margin: 20px 30px 20px 30px;
     align-content: center;
   }
   .image2 {
     width: 500px;
-    height: 750px;
+    height: 650px;
     float: left;
-    margin: 30px 30px 30px 30px;
+    margin: 20px 30px 20px 30px;
     align-content: center;
   }
   .image3 {
     width: 1000px;
     height: auto;
     float: left;
-    margin: 30px 30px 30px 30px;
+    margin: 20px 30px 20px 30px;
     align-content: center;
   }
   .body {
