@@ -20,6 +20,7 @@
   h1 {
     color: white;
     text-align: center;
+    font-size: 4rem;
   }
   h2 {
     color: white;
@@ -53,24 +54,32 @@
   height: 500px;
   float: left;
   }
-    .wheels {
+  .wheels {
   width: 500px;
   height: 500px;
   float: left;
+  margin-left: 20px;
+  margin-bottom: 20px;
   }
   .utero {
   width: 500px;
   height: 500px;
   float: left;
+  margin-left: 20px;
+  margin-bottom: 20px;
   }
   .flies {
   width: 500px;
   height: 500px;
   float: left;
+  margin-left: 20px;
+  margin-bottom: 20px;
   }
   .goodbye {
   width: 500px;
   height: 500px;
   float: left;
+  margin-left: 20px;
+  margin-bottom: 20px;
   }
 }
