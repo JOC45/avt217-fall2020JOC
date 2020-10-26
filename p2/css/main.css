@@ -16,8 +16,33 @@
     width: 100%;
     height: auto;
   }
-  h1{
+  h1 {
     color: white;
     text-align: center;
+  }
+  h2 {
+    color: white;
+  }
+  h3 {
+    color: white;
+  }
+  h4 {
+    color: white;
+  }
+    .wheels {
+  width: 500px;
+  height: 500px;
+  }
+  .utero {
+  width: 500px;
+  height: 500px;
+  }
+  .flies {
+  width: 500px;
+  height: 500px;
+  }
+  .goodbye {
+  width: 500px;
+  height: 500px;
   }
 }
