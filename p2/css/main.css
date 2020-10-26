@@ -33,6 +33,21 @@
     color: white;
     font-size: 1.5rem;
   }
+  .image {
+    width: 500px;
+    height: auto;
+    float: left;
+  }
+  .image2 {
+    width: 500px;
+    height: auto;
+    float: left;
+  }
+  .image3 {
+    width: 1000px;
+    height: auto;
+    float: left;
+  }
   .body {
   width: 500px;
   height: 500px;
