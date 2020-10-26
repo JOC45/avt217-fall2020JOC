@@ -1,6 +1,32 @@
 * {
   box-sizing: border-box;
 }
+html {
+  font-size: 16px;
+}
+header {
+  width: 75vw;
+  margin: 25px auto;
+}
+main {
+width: 75vw;
+margin: 25px auto;
+display: flow-root;
+}
+.col {
+  width : 50%;
+  float: left;
+  padding: 0 25px;
+}
+h1 {
+  font-size: 4rem;
+  text-align: left;
+  text-transform: uppercase;
+  font-weight: 700px;
+}
+li {
+  font-size: 2rem;
+}
 body {
   margin: 0;
 }
