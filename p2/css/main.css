@@ -38,48 +38,48 @@
     width: 500px;
     height: auto;
     float: left;
+    align-content: center;
   }
   .image2 {
     width: 500px;
     height: auto;
     float: left;
+    align-content: center;
   }
   .image3 {
     width: 1000px;
     height: auto;
     float: left;
+    align-content: center;
   }
   .body {
   width: 500px;
   height: 500px;
   float: left;
+  margin: 10px 10px 10px 10px;
   }
   .wheels {
   width: 500px;
   height: 500px;
   float: left;
-  margin-left: 20px;
-  margin-bottom: 20px;
+  margin: 10px 10px 10px 10px;
   }
   .utero {
   width: 500px;
   height: 500px;
   float: left;
-  margin-left: 20px;
-  margin-bottom: 20px;
+  margin: 10px 10px 10px 10px;
   }
   .flies {
   width: 500px;
   height: 500px;
   float: left;
-  margin-left: 20px;
-  margin-bottom: 20px;
+  margin: 10px 10px 10px 10px;
   }
   .goodbye {
   width: 500px;
   height: 500px;
   float: left;
-  margin-left: 20px;
-  margin-bottom: 20px;
+  margin: 10px 10px 10px 10px;
   }
 }
