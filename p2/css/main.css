@@ -5,13 +5,14 @@
   p {
     color: white;
     text-align: center;
-    font-size: 19px;
+    font-size: 24px;
     margin-right: 60px;
     margin-left: 60px;
+    font-family: Monaco, monospace;
   }
   ol {
     color: white;
-    font-size: 19px;
+    font-size: 24px;
   }
   img {
     align-content: center;
@@ -22,18 +23,28 @@
     color: white;
     text-align: center;
     font-size: 4rem;
+    font-family: Monaco, monospace;
   }
   h2 {
     color: white;
     font-size: 3rem;
+    font-family: Monaco, monospace;
   }
   h3 {
     color: white;
     font-size: 2rem;
+    font-family: Monaco, monospace;
   }
   h4 {
     color: white;
     font-size: 1.5rem;
+    font-family: Monaco, monospace;
+  }
+  .contianer{
+    width: 1050px;
+    height: 1500px;
+    align-content: center;
+    float: display;
   }
   .image {
     width: 500px;
@@ -50,40 +61,40 @@
     align-content: center;
   }
   .image3 {
-    width: 1000px;
+    width: 1025px;
     height: auto;
     float: left;
     margin: 20px 30px 20px 30px;
     align-content: center;
   }
   .body {
-  width: 500px;
-  height: 500px;
-  float: left;
-  margin: 10px 10px 10px 10px;
+    width: 500px;
+    height: 500px;
+    float: left;
+    margin: 10px 10px 10px 10px;
   }
   .wheels {
-  width: 500px;
-  height: 500px;
-  float: left;
-  margin: 10px 10px 10px 10px;
+    width: 500px;
+    height: 500px;
+    float: left;
+    margin: 10px 10px 10px 10px;
   }
   .utero {
-  width: 500px;
-  height: 500px;
-  float: left;
-  margin: 10px 10px 10px 10px;
+    width: 500px;
+    height: 500px;
+    float: left;
+    margin: 10px 10px 10px 10px;
   }
   .flies {
-  width: 500px;
-  height: 500px;
-  float: left;
-  margin: 10px 10px 10px 10px;
+    width: 500px;
+    height: 500px;
+    float: left;
+    margin: 10px 10px 10px 10px;
   }
   .goodbye {
-  width: 500px;
-  height: 500px;
-  float: left;
-  margin: 10px 10px 10px 10px;
+    width: 500px;
+    height: 500px;
+    float: left;
+    margin: 10px 10px 10px 10px;
   }
 }
