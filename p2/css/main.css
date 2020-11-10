@@ -85,8 +85,8 @@
     float: left;
     margin-top: 40px;
     margin-bottom: 40px;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
   }
   .utero {
     width: 500px;
@@ -94,8 +94,8 @@
     float: left;
     margin-top: 40px;
     margin-bottom: 40px;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
   }
   .flies {
     width: 500px;
@@ -103,8 +103,8 @@
     float: left;
     margin-top: 40px;
     margin-bottom: 40px;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
   }
   .goodbye {
     width: 500px;
@@ -112,7 +112,7 @@
     float: left;
     margin-top: 40px;
     margin-bottom: 40px;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
   }
 }
