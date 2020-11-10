@@ -45,7 +45,7 @@
     width: 1050px;
     height: 1500px;
     align-content: center;
-    float: display;
+    display: flex;
     margin: 0 auto;
     justify-content: center;
   }
@@ -74,30 +74,30 @@
     width: 500px;
     height: 500px;
     float: left;
-    margin: 10px 10px 10px 10px;
+    margin: 20px 20px 20px 20px;
   }
   .wheels {
     width: 500px;
     height: 500px;
     float: left;
-    margin: 30px 30px 30px 30px;
+    margin: 50px 50px 50px 50px;
   }
   .utero {
     width: 500px;
     height: 500px;
     float: left;
-    margin: 30px 30px 30px 30px;
+    margin: 50px 50px 50px 50px;
   }
   .flies {
     width: 500px;
     height: 500px;
     float: left;
-    margin: 30px 30px 30px 30px;
+    margin: 50px 50px 50px 50px;
   }
   .goodbye {
     width: 500px;
     height: 500px;
     float: left;
-    margin: 30px 30px 30px 30px;
+    margin: 50px 50px 50px 50px;
   }
 }
