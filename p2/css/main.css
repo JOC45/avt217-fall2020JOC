@@ -10,6 +10,11 @@
     margin-left: 60px;
     font-family: Monaco, monospace;
   }
+  ul {
+    font-family: Monaco monospace;
+    font-size: 16px;
+    float: right;
+  }
   ol {
     color: white;
     font-size: 24px;
