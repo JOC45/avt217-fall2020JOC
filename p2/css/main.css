@@ -53,21 +53,21 @@
     width: 100%;
     height: auto;
     float: left;
-    margin: 20px 30px 20px 30px;
+    margin: 20px 30px 20px auto;
     align-content: center;
   }
   .image2 {
     width: 100%;
     height: auto;
     float: left;
-    margin: 20px 30px 20px 30px;
+    margin: 20px 30px 20px auto;
     align-content: center;
   }
   .image3 {
     width: 100%;
     height: auto;
     float: left;
-    margin: 20px 30px 20px 30px;
+    margin: 20px 30px 20px auto;
     align-content: center;
   }
   .body {
