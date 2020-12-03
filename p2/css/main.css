@@ -14,9 +14,25 @@
     font-family: Monaco monospace;
     font-size: 20px;
     float: right;
+    display: inline;
+    overflow: hidden;
     margin: 0;
     padding: 0;
     list-style-type: none;
+  }
+  a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+  }
+  ul a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+  }
+  ul a:hover {
+    background-color: #666;
   }
   ol {
     color: white;
